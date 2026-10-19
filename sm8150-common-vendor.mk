@@ -592,6 +592,7 @@ PRODUCT_PACKAGES += \
     slim_daemon \
     ssgqmigd \
     ssgtzd \
+    ssr_setup \
     tftp_server \
     thermal-engine \
     time_daemon \
